@@ -1,4 +1,4 @@
-openai
-streamlit
-speech_recognition 
+openai==0.27.8
+streamlit==1.25.0
+speech_recognition
 pyttsx3
