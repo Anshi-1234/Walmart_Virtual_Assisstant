@@ -10,7 +10,7 @@ engine = pyttsx3.init()
 
 messages = [{"role": "system", "content": "You are a Walmart store assistant ready to help with inquiries about the store."}]
 
-openai.api_key = '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'
+openai.api_key = ''
 
 response = ""
 
